@@ -6,7 +6,7 @@ There are two primary goals of this project.
 1. To utilize UP Bank's API to practice calling APIs using Python
 2. To analyze the pulled data to determine where my money is going. 
 
-The first step is to successfully request the data via API.
+The first step is to successfully request the data via API. As this was my first time pulling an API, I referred to UP's developer docs extensively -https://developer.up.com.au/#welcome
 
 I first needed to obtain my personal access token from UP, which was done via scanning a QR code with the app. 
 Once the personal access token was obtained, it is put into a header:
